@@ -1,0 +1,498 @@
+
+@media (max-width:1199px) {
+    .footer_last_right p {
+        font-size: 16px;
+    }
+    header {
+        background-size: 860px;
+    }
+    .live_call_section {
+        background-size: 1334px;
+    }
+}
+
+@media (max-width:991px) {
+    header {
+        background-size: 570px;
+    }
+    .banner_section h1 {
+        margin: 0;
+        font-size: 40px;
+    }
+    .banner_section h2 {
+        font-size: 40px;
+    }
+    .banner_section p {
+        margin: 10px 0px;
+        font-size: 16px;
+    }
+    .nav-link {
+        color: #fff;
+        font-size: 16px;
+        width: 30%;
+        text-align: center;
+        font-weight: 700;
+        margin: 2px 0px;
+        background: #1168b8;
+    }
+    .btn {
+        font-size: 14px;
+    }
+    .live_call_section {
+        background-size: 1000px;
+        min-height: 95vh;
+    }
+    .live_call_section p {
+        font-size: 15px;
+        margin-top: 5%;
+    }
+    .what_we_do {
+    padding: 0;
+    padding-bottom: 30px;
+    }
+    .we_do p {
+        margin: 25px 0px;
+        font-size: 17px;
+    }
+    .we_do {
+        height: 350px;
+    }
+    .get_start p {
+        font-size: 14px;
+    }
+    .get_start {
+        height: 250px;
+    }
+    .get_start_section {
+        background-size: 990px;
+        min-height: 100vh;
+        margin-bottom: 0px;
+    }
+    .procces {
+        padding: 20px;
+        height: 350px;
+        width: 100%;
+    }
+    .procces p {
+        line-height: 23px;
+        font-size: 15px;
+    }
+    .industries_section h2 {
+        font-size: 35px;
+    }
+    .industries {
+        width: 100%;
+        padding: 15px;
+        height: 270px;
+    }
+    .industries p {
+        font-size: 12px;
+    }
+    .industries img {
+        width: 40%;
+    }
+    .industries h4 {
+        margin: 10px 0px;
+        font-size: 22px;
+    }
+    .question_section h1 {
+        font-size: 35px;
+        margin-bottom: 3rem;
+    }
+    .question_section p {
+        font-size: 24px;
+    }
+    footer {
+        background-size: 500px;
+    }
+    .footer_last_right p {
+        font-size: 10px;
+    }
+    .footer_address a {
+        font-size: 13px;
+    }
+}
+
+
+
+@media (max-width:767px) {
+    header {
+        background-size: 471px;
+    }
+    .navbar-brand img {
+        width: 60%;
+    }
+    .nav-link {
+        color: #fff;
+        text-align: center;
+        width: 30%;
+        background: #2075c4;
+        margin: 1px 0px;
+        font-size: 14px;
+    }
+    .banner_section h1 {
+        margin-top: 0px;
+        font-size: 30px;
+    }
+    .banner_section h2 {
+        font-size: 30px;
+    }
+    .banner_section p {
+        margin: 9px 0px;
+        font-size: 12px;
+    }
+    .btn {
+        font-size: 13px;
+        padding: 10px 15px;
+    }
+    .live_call_section {
+        background-size: 700px;
+        min-height: 68vh;
+    }
+    .live_call_section h1 {
+        margin-top: 30%;
+        font-size: 30px;
+    }
+    .live_call_section h2 {
+        font-size: 30px;
+    }
+    .live_call_section p {
+        font-size: 14px;
+        margin-top: 8%;
+    }
+    .what_we_do {
+        padding: 40px 0px;
+    }
+    .we_do {
+        height: 250px;
+        margin-bottom: 20px;
+    }
+    .we_do p {
+        font-size: 16px;
+        margin: 20px 0px;
+    }
+    .get_start_section {
+        background-size: 0;
+    }
+    .procces {
+        height: 300px;
+        margin-top: 60px;
+    }
+    .our_process_section h2 {
+        margin-bottom: 20px;
+        font-size: 35px;
+    }
+    .industries {
+        height: 350px;
+        width: 100%;
+        margin: auto;
+        margin-top: 10px;
+    }
+    .question_section {
+        min-height: 90vh;
+    }
+    .question_section h1 {
+        font-size: 35px;
+        margin-top: 20px;
+        margin-bottom: 2rem;
+    }
+    .question_section p {
+        margin: 0;
+        padding: 10px;
+        margin: 10px 0px;
+        width: 100%;
+        font-size: 20px;
+    }
+    .question_section i {
+        font-size: 20px;
+    }
+    footer {
+        background-position: top right;
+        background-size: 330px;
+        min-height: 105vh;
+    }
+    .footer_last_left img {
+        width: 30%;
+    }
+    .footer_left h1 {
+        margin: 0;
+        font-size: 35px; 
+    }
+    .footer_left h2 {
+        font-size: 35px;
+    }
+
+    .footer_last_right {
+        margin-top: 0px;
+        color: black;
+    }
+    .footer_address a {
+        color: black;
+        font-size: 15px;
+    }
+    .footer_last_right a {
+        margin-left: 15px;
+        border: 2px solid black;
+        color: black;
+        font-size: 17px;
+    }
+
+}
+
+
+
+
+@media(max-width:575px){
+    header{
+        background-size: 320px;
+        min-height: 80vh;
+    }
+    .navbar-nav {
+        margin-top: 45%;
+    }
+    .nav-link {
+        background: #0961b1;
+        text-align: center;
+        width: 50%;
+        margin: 5px 0;
+        margin: 5px auto;
+    }
+    .navbar-brand img {
+        width: 55%;
+    }
+    .banner_section {
+        text-align: center;
+    }
+    .banner_section h1 {
+        margin-top: 35px;
+        font-size: 30px;
+    }
+    .banner_section h2 {
+        font-size: 30px;
+    }
+    .btn {
+        font-size: 13px;
+        padding: 10px 15px;
+    }
+    .live_call_section {
+        background-size: 571px;
+        min-height: 88vh;
+    }
+    .live_call_section h1 {
+        margin-top: 70%;
+        font-size: 30px;
+        text-align: center;
+    }
+    .live_call_section h2 {
+        font-size: 30px;
+        text-align: center;
+    }
+    .live_call_section p {
+        font-size: 11px;
+        margin-top: 5%;
+        text-align: center;
+    }
+    .what_we_do {
+        padding: 30px 0px;
+    }
+    .we_do_child {
+        justify-content: center;
+    }
+    .we_do {
+        margin-bottom: 10px;
+        height: 220px;
+        padding: 10px;
+    }
+    .we_do p {
+        font-size: 13px;
+        text-align: center;
+        margin: 15px 0px;
+    }
+    .start_child h4 {
+        font-size: 18px;
+        margin-left: 1rem;
+    }
+    .start_child {
+        justify-content: center;
+    }
+    .we_do_child img {
+        width: 15%;
+    }
+    .get_start_section {
+        background-size: 0;
+        margin: 0;
+    }
+    .get_start p {
+        font-size: 13px;
+        text-align: center;
+        margin-left: 0;
+    }
+    .get_start {
+        height: 200px;
+        margin-bottom: 20px;
+      
+    }
+    .we_do_child h4 {
+        margin-left: 20px;
+        font-size: 15px;
+    }
+    .procces {
+        height: 280px;
+        margin-bottom: 50px;
+    }
+    .procces p {
+        line-height:18px;
+        font-size: 14px;
+    }
+    .industries_section h2 {
+        font-size: 30px;
+    }
+    .industries_section {
+        margin-top:0;
+    }
+    .industries {
+            
+        height: 280px;
+            
+        width: 40%;
+            
+        margin: auto;
+            
+        margin-bottom: 10px;
+    }
+    .industries img {
+        width: 30%;
+    }
+    .industries p {
+        font-size: 12px;
+    }
+    .industries h4 {
+        margin: 5px 0px;
+        font-size: 15px;
+    }
+    .question_section h1 {
+        font-size: 20px;
+        margin-bottom:0;
+    }
+    .question_section {
+        margin-top: 50px;
+    }
+    .question_section i {
+        font-size: 16px;
+    }
+    .question_section p {
+        padding: 6px 0px;
+        font-size: 12px;
+    }
+    .question_section {
+        min-height: 58vh;
+    }
+    footer {
+       
+        background-size:0;
+        min-height: 105vh;
+    }
+    .footer_left {
+        text-align: center;
+    }
+    .footer_left h1 {
+        font-size: 30px;
+        margin-top:0;
+    }
+    .footer_left h2 {
+        font-size: 30px;
+    }
+    .footer_address a {
+        font-size: 13px;
+    }
+    .footer_address i {
+        margin-right: 5px;
+        font-size: 13px;
+    }
+    .footer_last_right {
+        margin-top: 30px;
+        color: black;
+        font-size: 11px;
+    }
+    .footer_last_left img {
+        width: 25%;
+    }
+    .footer_last_left {
+        text-align: center;
+        font-size: 12px;
+    }
+    .footer_last_right a {
+        margin-left: 30px;
+        border: 2px solid black;
+        padding: 5px;
+        color: black;
+        font-size: 10px;
+    }
+    .footer_last_right p {
+        font-size: 10px;
+        text-align: center;
+    }
+    .footer_last_left p {
+        margin: 0;
+    }
+    .footer_last_right span {
+        display: block;
+        text-align: center;
+    }
+}
+@media (max-width:320px){
+    .navbar-nav{
+    margin-top: 50%;
+    }
+    .nav-link {
+    font-size: 12px;
+    }
+
+    .banner_section h1 {
+    margin-top: 40px;
+    font-size: 22px;
+    }
+    .banner_section h2 {
+        font-size: 22px;
+    }
+    .banner_section p {
+        margin: 10px 0px;
+        font-size: 15px;
+    }
+    .btn {
+        font-size: 10px;
+    }
+    .live_call_section {
+        background-size: 420px;
+        min-height: 70vh;
+    }
+    .live_call_section h1 ,.live_call_section h2 {
+        font-size: 22px;
+    }
+    .industries_section h2 {
+        font-size: 25px;
+    }
+    .industries {
+        width: 70%;
+    }
+    .footer_left h1 , .footer_left h2{
+        font-size: 22px;
+    }
+    .footer_left h6 {
+        margin: 10px 0px;
+        font-size: 13px;
+    }
+    .footer_last_right p {
+        font-size: 8px;
+    }
+    .footer_last_right span {
+        font-size: 8px;
+    }
+    .our_process_section h2{
+       margin: 0;
+    }
+    .procces {
+        margin-bottom: 0px;
+    }
+
+}
